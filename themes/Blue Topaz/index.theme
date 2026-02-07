@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Blue Topaz
+Comment= Dark Blue theme for IGOS Nusantara Linux
+Encoding=UTF-8
+
+Name[en_UK]=Blue Topaz
+
+[X-GNOME-Metatheme]
+GtkTheme=Blue Topaz
+MetacityTheme=Blue Topaz
+
